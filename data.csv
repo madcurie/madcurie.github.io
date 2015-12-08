@@ -1,42 +1,41 @@
 Department,Female Average Salary,Male Average Salary
-Aging,78,043.54,90,857.11
-Airports,73,611.11,89,590.09
-Animal Services,54,441.27,59,702.3
-Building and Safety,70,472.74,100,492.9
-City Administrative Officer,97,128.18,134,878.13
-City Attorney,103,798.25,133,977.28
-City Clerk,81,117.91,92,301.1
-City Employees Retirement System,75,837.01,92,230.67
-City Ethics Commission,75,702.03,107,190.72
-City Planning and Development,81,660.65,90,308.56
-Controller,91,229.6,101,020.09
-Cultural Affairs,58,563.1,79,172.67
-Disability,72,568.03,69,329.93
-Economic and Workforce Development Department,78,143.09,90,272.11
-El Pueblo De Los Angeles Historical Monument Authority,84,338.85,108,572.9
-Emergency Management,99,495.85,111,047.58
-Employee Relations Board,64,231.86,75,422.25
-Fire,97,174.46,148,030.09
-General Services,60,854.75,73,128.41
-Harbor,86,567.5,103,966.97
-Housing and Community Investment Department,72,664.59,88,871.41
-Information Technology Agency,94,803.34,103,040.27
-Library,65,520.56,67,417.23
-Los Angeles Convention Center,79,572.11,93,343.08
-Mayor,57,193.74,60,283.96
-Neighborhood Empowerment,78,098.55,75,825.03
-Office of Finance,75,216.03,86,199.02
-Office of the Chief Legislative Analyst,94,611.26,100,642.85
-Pension,78,800.91,106,030.66
-Personnel,79,007.43,92,197.81
-Police,86,357.27,96,538.94
-Public Works - Board of Public Works,77,736.29,76,540.83
-Public Works - Contract Administration,79,238.95,96,435.81
-Public Works - Engineering,79,489.29,99,469.58
-Public Works - Sanitation,74,050.91,81,282.86
-Public Works - Street Lighting,80,724.25,83,516.47
-Public Works - Street Services,68,278.69,79,017.45
-Recreation and Parks,66,834.6,66,080.69
-Transportation,71,052.24,87,221.21
-Zoo,61,729.01,67,712.13
-City Council,52,285.7,60,810.08
+CA,2704659,4499890
+TX,2027307,3277946
+NY,1208495,2141490
+FL,1140516,1938695
+IL,894368,1558919
+PA,737462,1345341
+City Employees Retirement System,75837.01,92230.67
+City Ethics Commission,75702.03,107190.72
+City Planning and Development,81660.65,90308.56
+Controller,91229.6,101020.09
+Cultural Affairs,58563.1,79172.67
+Disability,72568.03,69329.93
+Economic and Workforce Development Department,78143.09,90272.11
+El Pueblo De Los Angeles Historical Monument Authority,84338.85,108572.9
+Emergency Management,99495.85,111047.58
+Employee Relations Board,64231.86,75422.25
+Fire,97174.46,148030.09
+General Services,60854.75,73128.41
+Harbor,86567.5,103966.97
+Housing and Community Investment Department,72664.59,88871.41
+Information Technology Agency,94803.34,103040.27
+Library,65520.56,67417.23
+Los Angeles Convention Center,79572.11,93343.08
+Mayor,57193.74,60283.96
+Neighborhood Empowerment,78098.55,75825.03
+Office of Finance,75216.03,86199.02
+Office of the Chief Legislative Analyst,94611.26,100642.85
+Pension,78800.91,106030.66
+Personnel,79007.43,92197.81
+Police,86357.27,96538.94
+Public Works - Board of Public Works,77736.29,76540.83
+Public Works - Contract Administration,79238.95,96435.81
+Public Works - Engineering,79489.29,99469.58
+Public Works - Sanitation,74050.91,81282.86
+Public Works - Street Lighting,80724.25,83516.47
+Public Works - Street Services,68278.69,79017.45
+Recreation and Parks,66834.6,66080.69
+Transportation,71052.24,87221.21
+Zoo,61729.01,67712.13
+City Council,52285.7,60810.08
